@@ -1,17 +1,1 @@
-# Godot 4+ specific ignores
-.godot/
-*.translation
-export_presets.cfg
 
-# Project specific ignores
-addons/*
-!addons/kanban_tasks/
-!addons/standalone_plugin/
-
-export/
-generated/
-addons/kanban_tasks/data.json
-addons/kanban_tasks/data.kanban
-kanban_tasks_data.json
-kanban_tasks_data.kanban
-override.cfg
